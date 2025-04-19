@@ -7,13 +7,16 @@ SQL: For database querying and data manipulation.
 Excel/Google Sheets: For basic data handling and initial analysis.
 Python or R: For statistical analysis and more complex tasks (with relevant libraries like Pandas, NumPy, scikit-learn in Python; base R and tidyverse).
 Data Visualization Tools: (e.g., Tableau, Power BI, Matplotlib, Seaborn) for creating clear reports.
+
 Analytical:
 Critical Thinking: To ask the right questions and interpret data.
 Problem-Solving: To break down issues and find data-driven solutions.
 Statistical Fundamentals: Understanding core statistical concepts.
+
 Soft Skills:
 Communication: Clearly explaining findings to technical and non-technical audiences.
 Business Acumen: Understanding how data relates to business goals.
+
 Good to Have:
 
 Cloud platforms (AWS, Azure, GCP)
